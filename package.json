@@ -1,0 +1,25 @@
+{
+  "name": "zk-rollup",
+  "version": "1.0.0",
+  "description": "A simple ZK rollup in Ethereum meant for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hammurabi Mendes",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "ethers": "^6.8.0",
+    "hardhat": "^2.18.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "commander": "^11.1.0",
+    "ffjavascript": "^0.2.62",
+    "snarkjs": "^0.7.2"
+  }
+}
