@@ -4,7 +4,7 @@ This application is an example of a simple ZK-rollup application for Ethereum me
 
 The main goal here is to document the implementation with a **clean, well-organized code**, making the topic more accessible to beginners. In addition, the [scripts](scripts) subdirectory has useful scripts for the ZK-proof pipeline in Javascript (we only use two of them, but other useful tools are provided).
 
-***NOTE***: I also published a meant-to-be-learned Javascript project documenting multiple cryptographic protocols including threshold signatures, blind signatures, ring signatures, KZG polynomial commitments, verifiable random functions (VRFs), etc, has been published in "[Learn Cryptography with Javascript](https://github.com/hammurabi-mendes/learn-crypto-javascript)".
+***NOTE***: I also published a meant-to-be-learned Javascript project for threshold signatures, blind signatures, ring signatures, KZG polynomial commitments, verifiable random functions (VRFs), etc in "[Learn Cryptography with Javascript](https://github.com/hammurabi-mendes/learn-crypto-javascript)".
 
 ## Support
 - If you think this repository is useful, please consider supporting it here:
