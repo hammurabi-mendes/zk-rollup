@@ -2,7 +2,7 @@
 
 This application is an example of a simple ZK-rollup application for Ethereum meant to help learner-practitioners of zero-knowledge applications. We use the [Circom](https://docs.circom.io/circom-language/signals/) and [SnarkJS](https://github.com/iden3/snarkjs).
 
-The main goal here is to document the implementation with a **clean, well-organized code**, making the topic more accessible to beginners. In addition, the [scripts](scripts) subdirectory has useful scripts for the ZK-proof pipeline in Javascript (we only use two of them, but other useful tools are provided).
+ **DO NOT USE IT IN PRODUCTION**: the main goal here is to document the implementation with a **clean, well-organized code, meant for learning**, making the topic more **accessible to beginners**. In addition, the [scripts](scripts) subdirectory has useful scripts for the ZK-proof pipeline in Javascript (we only use two of them, but other useful tools are provided). If you need anything in production, do not use this code and do not "roll your own crypto": find another implementation, one that has been instead subject to auditing and written specifically for that purpose.
 
 ***NOTE***: I also published a meant-to-be-learned Javascript project for threshold signatures, blind signatures, ring signatures, KZG polynomial commitments, verifiable random functions (VRFs), etc in "[Learning Cryptography with Javascript](https://github.com/hammurabi-mendes/learn-crypto-javascript)".
 
