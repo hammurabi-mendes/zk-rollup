@@ -89,4 +89,4 @@ node index.mjs
 
 ## License and Closing Remarks
 
-This code is licensed under the 3-Clause BSD License. Please maintain the donation addresses if you fork the repository. Do not use this code in production.
+This code is licensed under the 3-Clause BSD License. Please maintain the donation addresses if you fork the repository. Do not use this code in production. If you need anything in production, do not use this code and do not "roll your own crypto": find **another** implementation, one that has been instead subject to auditing and written specifically for that purpose.
